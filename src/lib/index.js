@@ -1,4 +1,4 @@
-import VueComment from './VueComment.vue'
+import VueComment from './vue-table-filter.vue'
 const comment = {
   install: function(Vue) {
     Vue.component(VueComment.name, VueComment)
